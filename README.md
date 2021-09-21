@@ -1,5 +1,5 @@
 # IntelOS
-IntelOS is a GUI/Terminal Based OS That Is Entirely Made In The Commonly Known Programming Language Python
+IntelOS Is A GUI/Terminal Based OS That Is Entirely Made In The Commonly Known Programming Language Python
 # Installation
 Just Run The .EXE File And Then Go Through The Installation Steps And Then Run The Updater.py File
 # Requirements
